@@ -30,6 +30,8 @@
 		84C2D62F16B6E3AF0085FAD1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		84C2D63D16B6EC440085FAD1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		84C2D63F16B6EC610085FAD1 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		84DB75AA18904AEB00C2E284 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		84DB75AB18904AEB00C2E284 /* License.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = License.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,8 @@
 			isa = PBXGroup;
 			children = (
 				848CC88C1890456E00247C3C /* makefile */,
+				84DB75AA18904AEB00C2E284 /* README.md */,
+				84DB75AB18904AEB00C2E284 /* License.md */,
 				84C2D62E16B6E3AF0085FAD1 /* ioio */,
 				84C2D62C16B6E3AF0085FAD1 /* Products */,
 				84C2D63F16B6EC610085FAD1 /* IOKit.framework */,
