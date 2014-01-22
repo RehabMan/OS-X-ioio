@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		848CC88C1890456E00247C3C /* makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = makefile; sourceTree = "<group>"; };
 		84C2D62B16B6E3AF0085FAD1 /* ioio */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ioio; sourceTree = BUILT_PRODUCTS_DIR; };
 		84C2D62F16B6E3AF0085FAD1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		84C2D63D16B6EC440085FAD1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -47,10 +48,11 @@
 		84C2D62016B6E3AF0085FAD1 = {
 			isa = PBXGroup;
 			children = (
-				84C2D63F16B6EC610085FAD1 /* IOKit.framework */,
-				84C2D63D16B6EC440085FAD1 /* Foundation.framework */,
+				848CC88C1890456E00247C3C /* makefile */,
 				84C2D62E16B6E3AF0085FAD1 /* ioio */,
 				84C2D62C16B6E3AF0085FAD1 /* Products */,
+				84C2D63F16B6EC610085FAD1 /* IOKit.framework */,
+				84C2D63D16B6EC440085FAD1 /* Foundation.framework */,
 			);
 			sourceTree = "<group>";
 		};
