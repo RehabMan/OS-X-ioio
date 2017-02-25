@@ -14,7 +14,7 @@ Copy the binary 'ioio' to a directory in your path, such as /usr/bin.  You can a
 
 Downloads are available on bitbucket:
 
-https://bitbucket.org/RehabMan/os-x-ioio/downloads
+https://bitbucket.org/RehabMan/os-x-ioio/downloads/
 
 
 ### Build Environment
